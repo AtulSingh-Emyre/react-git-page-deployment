@@ -37,4 +37,4 @@ The value used for homepage is: `https://{username}.github.io/{repo-name}`. The 
 ```
 
 ## Step 3 (case wise): Router 
-Now if you are using react-router-dom, 
+Now if you are using react-router-dom, you may have some issues with rendering pages once the website is deployed due to routes.
